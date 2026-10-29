@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Microck/elevenlabs-web-cli/releases/download/v0.1.1/elevenlabs_0.1.1_windows_amd64.zip",
+            "bin": [
+                "elevenlabs.exe"
+            ],
+            "hash": "ddd8a2fa6cf3b051a6690953eec66b4b43d9213f3841700431032a574d313043"
+        },
+        "arm64": {
+            "url": "https://github.com/Microck/elevenlabs-web-cli/releases/download/v0.1.1/elevenlabs_0.1.1_windows_arm64.zip",
+            "bin": [
+                "elevenlabs.exe"
+            ],
+            "hash": "6c5bfca07ad1e7f2273a7defd10830fc2719778fc7d50216e36fbd4488968c1d"
+        }
+    },
+    "homepage": "https://github.com/Microck/elevenlabs-web-cli",
+    "license": "MIT",
+    "description": "Terminal CLI for ElevenLabs"
+}
